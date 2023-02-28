@@ -1,5 +1,7 @@
 # Weather_Recognition_ResNet34
-Weather recognition with ResNet34 backbone (Run on Colab)
+Weather recognition is a computer vision project which use ResNet34 backbone and 50 epochs to forecast the weather
+
+Dataset: weather_dataset which has 6862 pictures (samples) for 11 kinds of weather (dew, fogsmog, frost, glaze, hail, lightning, rain, rainbow, rime, sandstorm, snow) 
 
 Model performence with 50 epochs:
 
