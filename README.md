@@ -3,7 +3,8 @@ Weather recognition is a computer vision project which use ResNet34 backbone and
 
 Takes 30-40 minutes when trained in Google Colaboratory
 
-Dataset: weather_dataset which has 6862 pictures (samples) for 11 kinds of weather (dew, fogsmog, frost, glaze, hail, lightning, rain, rainbow, rime, sandstorm, snow) 
+# Dataset 
+Weather_dataset which has 6862 pictures (samples) for 11 kinds of weather (dew, fogsmog, frost, glaze, hail, lightning, rain, rainbow, rime, sandstorm, snow) 
 
 # Progamming language
 Python
