@@ -1,5 +1,5 @@
 # Weather_Recognition_ResNet34
-Weather recognition is a computer vision project which use ResNet34 backbone and 50 epochs to forecast the weather
+Weather recognition is a classification computer vision project which use ResNet34 backbone and 50 epochs to forecast the weather
 
 Takes 30-40 minutes when trained in Google Colaboratory
 
