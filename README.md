@@ -10,7 +10,7 @@ Weather dataset (link to download in the code file) which has 6862 pictures (sam
 Python
 
 # Download model checkpoint
-```linux
+```
 !gdown --id 1AJDd2GWpVC9PzPPza6m6DE3pEPGViuM_
 ```
 
