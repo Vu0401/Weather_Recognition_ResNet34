@@ -2,13 +2,15 @@
 Weather recognition is a classification computer vision project which use ResNet34 backbone and 50 epochs to forecast the weather
 
 Takes 30-40 minutes when trained in Google Colaboratory
+# Download model checkpoint
+https://drive.google.com/file/d/1niNXHZrRZLE_SM2ZeJhQThOiV4DANSf9/view?usp=share_link
 
 # Dataset 
 Weather dataset (link to download in the code file) which has 6862 pictures (samples) for 11 kinds of weather (dew, fogsmog, frost, glaze, hail, lightning, rain, rainbow, rime, sandstorm, snow) 
 
 # Progamming language
 Python
-
+___
 # Model performence 
 Model performence with ResNet34 and 50 epochs:
 
