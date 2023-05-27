@@ -17,8 +17,8 @@ Python
 # Model performence 
 Model performence with ResNet34 and 50 epochs:
 
-![image](https://user-images.githubusercontent.com/93986576/221835328-5d701e20-b624-440a-a807-4714f0affb56.png)
-![image](https://user-images.githubusercontent.com/93986576/221835464-bcdb15c4-eaec-4548-8a32-e06f989168f1.png)
+![image](https://github.com/Vu0401/Weather_Recognition_ResNet34/assets/93986576/20143caa-6742-4503-b8ae-8ffdfd3abbf1)
+![image](https://github.com/Vu0401/Weather_Recognition_ResNet34/assets/93986576/67a95ea0-ba99-4691-8bae-77a093de4c80)
 
 # Inference
 ![image](https://github.com/Vu0401/Weather_Recognition_ResNet34/assets/93986576/77bae6f0-8220-4420-9e10-cc5da2ad0126)
