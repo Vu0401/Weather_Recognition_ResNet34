@@ -21,5 +21,8 @@ Model performence with ResNet34 and 50 epochs:
 ![image](https://github.com/Vu0401/Weather_Recognition_ResNet34/assets/93986576/67a95ea0-ba99-4691-8bae-77a093de4c80)
 
 # Inference
-![image](https://github.com/Vu0401/Weather_Recognition_ResNet34/assets/93986576/3406638a-a8e6-4797-9566-87f212c3ffe1)
+```python
+search(r'dataset\rainbow\107.jpg')
+```
+![image](https://github.com/Vu0401/Weather_Recognition_ResNet34/assets/93986576/d88106fb-695e-4177-90e5-5cfa8098dc41)
 
